@@ -4,7 +4,8 @@
 
 This repository contains a reference guide with key information to help you prepare for the AWS Certified Solutions Architect Associate (SAA-C03/SAA-C04) exam, **updated for 2025**.
 
-![eb2f54a3684f644ba6084772170e98fd.png](:/f02dd2c7c7624a2d98531bdcaec2a308)
+<img width="1920" height="1210" alt="image" src="https://github.com/user-attachments/assets/e9b21e18-e3bc-4074-813e-625e17c9a62f" />
+
 
 This reference guide summarizes important services, concepts, and best practices tested in the exam. It can be used as a quick reference guide for studying.
 
